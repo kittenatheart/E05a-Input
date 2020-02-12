@@ -1,5 +1,7 @@
 # E05-Input
 
+*Exercise is Complete*
+
 This is an exercise to help you become accustomed to how Godot treats user input.
 
 Instructions are as follows:
